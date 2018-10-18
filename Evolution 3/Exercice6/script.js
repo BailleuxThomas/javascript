@@ -5,4 +5,9 @@ for (let i=1; i<6; i++){
     img.addEventListener("mouseenter", function(){
     img.setAttribute('src', `${image}.png`);
     });
+
+    
+    img.addEventListener("mouseleave", function(){
+    img.setAttribute('src', `${image}.jpg`);
+    });
     }
