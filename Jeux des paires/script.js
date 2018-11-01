@@ -41,6 +41,14 @@ const cardsArray = [{
     'name': 'Hadrienbg',
     'img': 'img/10.jpg',
 },
+{
+    'name': 'Raph',
+    'img': 'img/11.jpg',
+},
+{
+    'name': 'Baptiste',
+    'img': 'img/12.jpg',
+},
 ];
 
 let gameGrid = cardsArray.concat(cardsArray).sort(function () {
