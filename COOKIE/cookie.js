@@ -37,14 +37,15 @@ let autoclick = () => {
 
 let bonusTime = () => {
 
-    if (score > 50) {
+    if (score > 500) {
         intervalle = setInterval(timedText, 1000);
-        score = score - 50
+        score = score - 500
         bonus.disabled = true;
         bonusScore(); // Exécute la fonction bonusScore
         time(); // Exécute la fonction bonusScoreEnd après X secondes
         timedText();
     } else {
+        alert("Il te faut 500 POINTS!")
     }
 }
     
