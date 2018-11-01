@@ -66,7 +66,7 @@ body {
 }
 
 .match .front {
-  background: #6589F9 "../../img/question.gif" !important;
+  background: "../../img/question.gif" !important;
 }
 
 @font-face {
