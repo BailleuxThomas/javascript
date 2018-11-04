@@ -1,3 +1,5 @@
-Test2
+https://bailleuxthomas.github.io/javascript/Jeux%20des%20paires/
 
-# javascript
+https://bailleuxthomas.github.io/javascript/Juste%20Prix/
+
+https://bailleuxthomas.github.io/javascript/Pendu/
